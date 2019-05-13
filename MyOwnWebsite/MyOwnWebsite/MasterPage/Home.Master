@@ -1,0 +1,108 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="MyOwnWebsite.MaterPage.Home" %>
+
+ <!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>My Own Website</title>
+    <link href="../Script/Home.css" rel="stylesheet" />
+    <link href="../Script/Masterpage.css" rel="stylesheet" />
+</head>
+
+<body>
+
+
+    <form id="form1" runat="server">
+        <meta charset="utf-8">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="/Content/css/weather-icons/css/weather-icons.min.css" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        <asp:ScriptManager ID="scriptmanager1" runat="server">
+        </asp:ScriptManager>
+        <asp:ContentPlaceHolder ID="contentplaceholder1" runat="server">
+
+            <div id="wrapper" class="panel panel-primary">
+                <div id="logo">
+                    <table style="width: 100%;">
+                        <tr>
+                            <td align="Right"></td>
+                            <td align="center">
+                                <h4 class="cndctext" style="font-style: normal">Lovely FAMILY
+                                <small>created by Gangula Saran Teja(.Net Develeoper)</small>
+                                </h4>
+                            </td>
+
+                        </tr>
+                    </table>
+                </div>
+                <div>
+                </div>
+                <div id="page" class="round">
+                    <table style="width: 100%; height: auto;">
+                        <tr>
+                            <td>
+                                <asp:Image ID="Image1" runat="server"
+                                    ImageUrl="~/Images/flat-home-icon-house-sign-web-internet-button-vector-13229309.jpg" Width="23px" Style="vertical-align: middle" />
+                                <asp:LinkButton ID="LinkHome" runat="server"
+                                    ToolTip="Home" PostBackUrl="~/Forms/Home.aspx">Home</asp:LinkButton>
+                            </td>
+                            <td>
+                                <asp:Label ID="lblName" runat="server"
+                                    CssClass="labelstyle"></asp:Label>
+                            </td>
+                            <td align="right">
+
+                                <asp:Image ID="Image2" runat="server" Width="23px"
+                                    ImageUrl="~/Images/logout.png"
+                                    Style="vertical-align: middle" />
+
+                                <asp:LinkButton ID="LinkLogout" runat="server"
+                                    PostBackUrl="~/LoginPage.aspx" ToolTip="Logout">Logout</asp:LinkButton>
+                            </td>
+
+                        </tr>
+                    </table>
+                    <nav class="navbar navbar-default">
+                        <div class="container-fluid">
+                            <div class="navbar-header">
+                                <a class="navbar-brand" href="#">Lovely Family Transfer Process</a>
+
+                                <%-- <ul class="nav navbar-nav">
+                                <li ><a href="../Forms/Home.aspx">Home</a></li>
+                                <li  ><a href="../Forms/ImmedaiteSupervisor.aspx">Immedaite Supervisor</a></li>
+                                <li ><a href="../Forms/Departmnet.aspx">Department</a></li>
+                                <li ><a href="../Forms/CEO.aspx">CEO</a></li>
+                            </ul>--%>
+                            </div>
+                    </nav>
+                    <%--<div  align="center">
+                    <table>
+                        <tr>
+                            <td >
+                                <h3>CopyRights@Saran Teja</h3>
+                            </td>
+                        </tr>
+                    </table>
+                </div>--%>
+    
+           
+
+        </asp:ContentPlaceHolder>
+        <div style="width: auto">
+            <asp:ContentPlaceHolder ID="contentplaceholder2" runat="server">
+                
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+
+
+
+
+
+    </form>
+</body>
+</html>

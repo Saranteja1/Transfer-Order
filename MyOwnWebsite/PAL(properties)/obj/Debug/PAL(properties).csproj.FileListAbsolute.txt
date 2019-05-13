@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\PAL(properties)\bin\Debug\PAL(properties).dll
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\PAL(properties)\bin\Debug\PAL(properties).pdb
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\PAL(properties)\obj\Debug\PAL(properties).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\PAL(properties)\obj\Debug\PAL(properties).dll
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\PAL(properties)\obj\Debug\PAL(properties).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\PAL(properties)\bin\Debug\PAL(properties).dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\PAL(properties)\bin\Debug\PAL(properties).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\PAL(properties)\obj\Debug\PAL(properties).dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\PAL(properties)\obj\Debug\PAL(properties).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\PAL(properties)\bin\Debug\AjaxControlToolkit.dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\PAL(properties)\obj\Debug\PAL(properties).csprojResolveAssemblyReference.cache

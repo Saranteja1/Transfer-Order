@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\DAL(InterConnection)\bin\Debug\DAL(InterConnection).dll
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\DAL(InterConnection)\bin\Debug\DAL(InterConnection).pdb
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\DAL(InterConnection)\bin\Debug\PAL(properties).dll
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\DAL(InterConnection)\bin\Debug\PAL(properties).pdb
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\DAL(InterConnection)\obj\Debug\DAL(InterConnection).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\DAL(InterConnection)\obj\Debug\DAL(InterConnection).dll
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\DAL(InterConnection)\obj\Debug\DAL(InterConnection).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\DAL(InterConnection)\bin\Debug\DAL(InterConnection).dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\DAL(InterConnection)\bin\Debug\DAL(InterConnection).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\DAL(InterConnection)\bin\Debug\PAL(properties).dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\DAL(InterConnection)\bin\Debug\PAL(properties).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\DAL(InterConnection)\obj\Debug\DAL(InterConnection).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\DAL(InterConnection)\obj\Debug\DAL(InterConnection).dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\DAL(InterConnection)\obj\Debug\DAL(InterConnection).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\DAL(InterConnection)\bin\Debug\AjaxControlToolkit.dll

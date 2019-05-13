@@ -1,0 +1,19 @@
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\BAL(DataAcessLayer).dll
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\BAL(DataAcessLayer).pdb
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\DAL(InterConnection).dll
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\PAL(properties).dll
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\DAL(InterConnection).pdb
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\PAL(properties).pdb
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\BAL(DataAcessLayer)\obj\Debug\BAL(DataAcessLayer).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\BAL(DataAcessLayer)\obj\Debug\BAL(DataAcessLayer).dll
+C:\Users\acer\Desktop\Live Applications Backup\MyOwnWebsite\BAL(DataAcessLayer)\obj\Debug\BAL(DataAcessLayer).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\BAL(DataAcessLayer).dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\BAL(DataAcessLayer).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\DAL(InterConnection).dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\PAL(properties).dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\DAL(InterConnection).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\PAL(properties).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\obj\Debug\BAL(DataAcessLayer).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\obj\Debug\BAL(DataAcessLayer).dll
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\obj\Debug\BAL(DataAcessLayer).pdb
+C:\Users\acer\Desktop\Live Applications\MyOwnWebsite\BAL(DataAcessLayer)\bin\Debug\AjaxControlToolkit.dll
